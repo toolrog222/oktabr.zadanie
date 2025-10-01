@@ -1,0 +1,37 @@
+.get-started{
+    height: 100vh;
+
+    background-image: url(/assets/images/main/get-started.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.get-started__container{
+    position: relative;
+    height: 100%;
+}
+.get-started__content{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-image: url(/assets/images/main/text.png);
+    background-repeat: no-repeat;
+    width: 624px;
+    height: 369px;
+    padding: 70px;
+}
+.get-started__title{
+    font-family: "Ar";
+    font-size: 62px;
+    color: var(--black);
+    margin-bottom: 25px;
+}
+
+.get-started__btn{
+    background-color: var(--black);
+    padding: 19px 50px;
+    color: var(--marsupilami);
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    font-weight: 600px;
+    color: var();
+}
