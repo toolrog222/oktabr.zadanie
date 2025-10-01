@@ -1,0 +1,28 @@
+.night-city{
+    height: 100vh;
+
+    background-image: url(/assets/images/main/background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.night-city__container{
+    position: relative;
+    height: 100%;
+}
+.night-city__content{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-image: url(/assets/images/main/text.png);
+    background-repeat: no-repeat;
+    width: 624px;
+    height: 369px;
+    padding: 70px;
+}
+.night-city__title{
+width: 996;
+height: 63;
+top: 1070px;
+left: 320px;
+
+}
