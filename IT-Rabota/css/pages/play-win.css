@@ -1,0 +1,91 @@
+.play-win{
+    padding-top:100px;
+    height: 100vh;
+    width: auto;
+    background-image: url(/assets/images/main/block3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.play-win__container{
+    position: relative;
+    height: 100%;
+}
+.play-win__content{
+    position: relative;
+}
+.play-win__title{
+text-align: center;
+font-size: 62px;
+color: #ffffff;
+}
+.play-win__text{
+    margin-top: 50px;
+    color: #ffffff;
+    width: 952px;
+    font-size: 18px;
+}
+.play-win__action{
+    color: #F8F200;
+    position: absolute;
+    margin-top: -150px;
+    rotate:315deg;
+    font-size: 30px;
+}
+.play-win__actionimg{
+    position: absolute;
+    margin-top: -195px;
+    margin-left: -25px;
+    height: 132px;
+    width: 132px;
+}
+.play-win__Cyberpunk{
+    color: #52BEDC;
+}
+.play-win__xboxps{
+    position: relative;
+    margin-left: 480px;
+    margin-top: 100px;
+}
+.play-win__name{
+    position: absolute;
+    margin-top: -350px;
+    height: 35px;
+    width: 480px;
+    background-color: #111;
+    color: white;
+    font-size: 18px;
+}
+.play-win__email{
+    position: absolute;
+    margin-top: -250px;
+    height: 35px;
+    width: 480px;
+    background-color: #111;
+    color: white;
+    font-size: 18px;
+}
+::placeholder{
+    color: #ffffff;
+    font-size: 18px;
+}
+.play-win__button{
+    position: absolute;
+    margin-top: -150px;
+    width: 192px;
+    height: 59px;
+    font-size: 18px;
+    background-color: #F8F200;
+    font: bold;
+}
+.play-win__acception{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: -60px;
+}
+.play-win__acceptiontext{
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 20px;
+    color: white;
+    font-size: 12px;
+}

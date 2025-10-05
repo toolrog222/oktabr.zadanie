@@ -1,0 +1,27 @@
+.header{
+    padding: 20px 0 20px 0;
+    position: absolute;
+    width: 100%;
+}
+.header__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo img{
+    max-width: 269px;
+    height: auto;
+}
+
+.header__list{
+    display: flex;
+    gap: 40px;
+}
+.header__link{
+    display: inline-block;
+}
+.header__link img{
+    max-width: 30px;
+    height: auto;
+}
