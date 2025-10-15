@@ -1,0 +1,73 @@
+.buy-game{
+    width: 100%;
+height: 717px;
+  position: relative;
+  background-color: var(--black);
+}
+.cyberpunk_block5{
+    position: relative;
+    display: flex;
+    height: 717px;
+    width: 944px;
+    background-image: url(/assets/images/main/Block5left.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -309px;
+    margin-top: -610px;
+}
+.buy-game__container{
+    position: relative;
+    height: 717px;
+}
+.buy-game__title{
+    margin-left: 700px;
+    padding-top: 50px;
+}
+.buy-game__titletext{
+    font-size: 62px;
+    color: white;
+}
+.buy-game__plus{
+    margin-left: 700px;
+    padding-top: 20px;
+}
+.buy-game__bonuses{
+    margin-top: 15px;
+}
+.buy-game__disk{
+    margin-top: 15px;
+    color: white;
+}
+.buy-game__code{
+    margin-top: 15px;
+    color: white;
+}
+.buy-game__info{
+    margin-top: 15px;
+    color: white;
+}
+.complect{
+    color: #52BEDC;
+    font-size: 24px;
+}
+.buy-game__platform{
+    margin-left: 700px;
+    margin-top: 70px;
+    font-size: 24px;
+}
+.platform-images{
+    margin-top: 24px;
+    margin-left: 700px;
+}
+.xbox-logo{
+    padding-left: 136px;
+    margin-top: -30px;
+}
+.stadia-logo{
+    margin-top: 47px;
+}
+.ps-logo{
+    margin-left: 136px;
+    margin-top: -40px;
+}

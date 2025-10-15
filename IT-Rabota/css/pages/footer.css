@@ -1,0 +1,46 @@
+.footer{
+    max-height: 100px;
+    width: 100vh;
+    background-color: white;
+}
+.footer__container{
+    position: relative;
+}
+.cyberpunk-logofooter{
+    position: absolute;
+    display: flex;
+    padding-left: 380px;
+    padding-top: 10px;
+    padding-bottom: 13px;
+}
+.cdproject-footer{
+    position: absolute;
+    padding-left: 752px;
+    padding-top: 0px;
+    padding-bottom: 26px;
+}
+.license{
+    position: absolute;
+    padding-left: 1093px;
+    padding-top: 38px;
+    padding-bottom: 41px;
+    font-size: 25px;
+}
+.politics{
+    position: absolute;
+    padding-left: 1259px;
+    padding-top: 38px;
+    padding-bottom: 41px;
+    font-size: 25px;
+}
+.footer2{
+    position: absolute;
+    height: 40px;
+    width: 1920px;
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
